@@ -1,0 +1,9 @@
+1) Install MySQL
+2) Install SQLYog
+3) Install JDK 8
+4) Install Netbeans 8.2
+5) Open Current folder in netbeans by File -> Open Project -> select current folder
+6) Open Constants.java line number 18, replace with your current folder path
+7) Open Constants.java line number 30, replace with your MySQL password
+8) Open SQLYog and execute qrbank.sql file
+9) Right click on project in NetBeans and click on run.
